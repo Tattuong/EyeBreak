@@ -1,0 +1,19 @@
+{
+  "app": "ShiftLens",
+  "package": "com.ShiftLensMNG.ShiftLens",
+  "remoteConfig": "https://api2.blwsmartware.net/R252.json",
+  "products": [
+    { "productId": "sl_pack_1", "type": "consumable", "stars": 50, "name": "ShiftLens Coin Pack 1" },
+    { "productId": "sl_pack_2", "type": "consumable", "stars": 100, "name": "ShiftLens Coin Pack 2" },
+    { "productId": "sl_pack_3", "type": "consumable", "stars": 200, "name": "ShiftLens Coin Pack 3" },
+    { "productId": "sl_pack_4", "type": "consumable", "stars": 350, "name": "ShiftLens Coin Pack 4" },
+    { "productId": "sl_pack_5", "type": "consumable", "stars": 500, "name": "ShiftLens Coin Pack 5" },
+    { "productId": "sl_pack_6", "type": "consumable", "stars": 750, "name": "ShiftLens Coin Pack 6" },
+    { "productId": "sl_pack_7", "type": "consumable", "stars": 1000, "name": "ShiftLens Coin Pack 7" },
+    { "productId": "sl_pack_8", "type": "consumable", "stars": 1500, "name": "ShiftLens Coin Pack 8" },
+    { "productId": "sl_pack_9", "type": "consumable", "stars": 2200, "name": "ShiftLens Coin Pack 9" },
+    { "productId": "sl_pack_10", "type": "consumable", "stars": 3000, "name": "ShiftLens Coin Pack 10" },
+    { "productId": "sl_remove_ads", "type": "non-consumable", "stars": 0, "name": "ShiftLens Remove Ads" },
+    { "productId": "sl_pro", "type": "non-consumable", "stars": 0, "name": "ShiftLens Pro" }
+  ]
+}
